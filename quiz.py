@@ -1,16 +1,20 @@
 # Introducing what the program is.
 print("Welcome To The Quiz! ")
+
 # A reminder note to use lowercases so no errors occur
 print("\n **NOTE** \n Note: Make sure to use lowercases at all times through answering the questions that don't involve numbers.")
+
 # Asking for the user input of what there name is.
 name = input("\n Please Enter your name: ")
+
 # Greeting the user 
 print("\n Hello", name + "!")
+
 # Asking if they would likee to start the quiz or not
 user = input("\n Would you like to start the quiz? yes or no ")
 # if the user types yes the program will continue to start the quiz
 if user == ("yes"):
-  # Letting the user know that the quiz/program has started
+# Letting the user know that the quiz/program has started
   print("\n Alright, Let's begin!" )
    #  else is used if the condition is used
 else:
@@ -72,7 +76,7 @@ if answer_7 == "amazon":
   print("You're correct! It is the amazon river. ")
 else:
   print(f"You're Incorrect! It is the amazon river, not {answer_7!r}")
-   # Telling the user that they have completed the quiz.
+# Telling the user that they have completed the quiz until they have finished answering all the questions.
 print("\n You have completed the quiz, Good bye! ")
 
  # https://stackoverflow.com/questions/32041840/python-error-typeerror-input-expected-at-most-1-arguments-got-3
