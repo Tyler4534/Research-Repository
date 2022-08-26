@@ -47,8 +47,3 @@ What could I add to improve my program:
 
 What i could add to my quiz/ improve is to add a score count. So when you get an answer correct after you answer each question it will count the score up by 1
 each time you get a question correct and then to print out how many you got correct afterwards so then your score is kept tracked easily.
-
-
-
-
-https://replit.com/@stoneju/Quiz?v=1#main.py
