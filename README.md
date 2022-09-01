@@ -52,4 +52,5 @@ each time you get a question correct and then to print out how many you got corr
 Quiz version 2:
 
 As apart of what i could improve with my program the suggestion that i had made was to make a score that counts the questions that the user gets correct. 
-I have made a quiz
+I have made a quiz version 2.0 that a score is used to count the amount of questions that the user answers and gets correct. This is used as an improvement
+on my quiz so then your score is kept tracked as you answer throughout the quiz.
