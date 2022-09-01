@@ -63,7 +63,7 @@ if answer_5 == "africa":
 else:
   print(f"You're Incorrect! Africa is the hottest continent, not {answer_5!r}")
   
-# Note to tell the user to with north or south so then it's kept simple and easy for no errors to occur when user is answering this question.
+# Note to telling the user to respond with north or south so then it's kept simple and easy for no errors to occur when user is answering this question.
 print("\n Note: Respond with north or south")
   
 answer_6 = input("\n Q6 -  Which is colder North pole or South pole: ")
