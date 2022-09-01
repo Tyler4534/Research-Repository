@@ -28,19 +28,19 @@ score = 0
 # score is calling the int (intger) function that converts the vaule (score) into a whole integer number
 score = int(score)
 
-# From yes program continues here answer_(num) input is asking for user input to answer the question   (Line  repeats on line: )
+# From yes program continues here answer_(num) input is asking for user input to answer the question   (Line 32 repeats on line: 47,56,65,74,84,93)
 answer_1 = input("\n Q1 - How many countries are their in the world: ")
-# If the user gets answer_(num)  answer correct it will be equal to the correct answer example for answer_1 == "195": (Line  repeats on line: )
+# If the user gets answer_(num)  answer correct it will be equal to the correct answer example for answer_1 == "195": (Line 34 repeats on line: 48,57,66,75,85,94)
 if answer_1 == "195":
-# If user types the correct answer it'll print out a message saying that they're correct. (Line 32 repeats on line: 41,49,57,65,73,79)
+# If user types the correct answer it'll print out a message saying that they're correct. (Line 36 repeats on line: 49,58,67,76,86,95)
   print("You're correct, There are 195 countries! ")
-# int(score) converts it into a number. when user gets answer correct score = 0, + 1 will be added everytime a question is answered correctly. (Line repeats on line:) 
+# if user gets answer correct score = 0, + 1 will be added everytime a question is answered correctly. (Line 38 repeats on line: 50,59,68,77,87,96) 
   score = score + 1
-# prints out what the user score is when they get one and more correct 
+# prints out what the user score is when they get one and more correct (Line 40 repeats on line: 51,60,69,78,88,97)
   print('\n Your score is ' + str(score) +  ' out of 7')
-# If answer isn't equal to correct answer else statement would be used to print its an incorrect answer to the question (Line 34 repeats on line:42,50,58,66,74,80)
+# If answer isn't equal to correct answer else statement would be used to print its an incorrect answer to the question (Line 42 repeats on line: 52,61,70,79,89,98)
 else:
- # If user's answer incorrect it will print that it is incorrect and give them the right answer. (Line 36 repeats on line: 43,51,59,67,76,82
+ # If user's answer incorrect it will print that it is incorrect and give them the right answer. (Line 44 repeats on line: 53,62,71,80,90,99)  
   print(f"Incorrect! The answer is 195, not {answer_1!r}")
 
   
@@ -78,7 +78,7 @@ if answer_5 == "africa":
   print('\n Your score is ' + str(score) +  ' out of 7')
 else:
   print(f"You're Incorrect! Africa is the hottest continent, not {answer_5!r}")
-
+# Just a note so no issues occur when answering question 6 
 print("\n Note: Respond with north or south")
   
 answer_6 = input("\n\n Q6 -  Which is colder North pole or South pole: ")
@@ -94,7 +94,7 @@ answer_7 = input("\n\n Q7 - What river flows through the rainforest in brazil: "
 if answer_7 == "amazon":
   print("You're correct! It is the amazon river. ")
   score = score + 1
-  #print('\n Your score is ' + str(score) +  ' out of 7')
+  print('\n Your score is ' + str(score) +  ' out of 7')
 else:
   print(f"You're Incorrect! It is the amazon river, not {answer_7!r}")
    # Telling the user that they have completed the quiz and with the score that they have gotten out of 7.
