@@ -28,13 +28,13 @@ score = 0
 # score is calling the int (intger) function that converts the vaule (score) into a whole integer number
 score = int(score)
 
-# From yes program continues here answer_(num) input is asking for user input to answer the question   (Line 32 repeats on line: 47,57,66,75,84,93 )
+# From yes program continues here answer_(num) input is asking for user input to answer the question   (Line  repeats on line: )
 answer_1 = input("\n Q1 - How many countries are their in the world: ")
-# If the user gets answer_(num)  answer correct it will be equal to the correct answer example for answer_1 == "195": (Line 34 repeats on line: 48,57,68,78,88,96)
+# If the user gets answer_(num)  answer correct it will be equal to the correct answer example for answer_1 == "195": (Line  repeats on line: )
 if answer_1 == "195":
 # If user types the correct answer it'll print out a message saying that they're correct. (Line 32 repeats on line: 41,49,57,65,73,79)
   print("You're correct, There are 195 countries! ")
-# because int(score) converts it into a number. when user gets answer correct because score = 0, + 1 will be added everytime a question is answered 
+# int(score) converts it into a number. when user gets answer correct score = 0, + 1 will be added everytime a question is answered correctly. (Line repeats on line:) 
   score = score + 1
 # prints out what the user score is when they get one and more correct 
   print('\n Your score is ' + str(score) +  ' out of 7')
