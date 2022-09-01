@@ -49,9 +49,14 @@ it was an error that i just couldn't see till i had fixed it.
    https://realpython.com/python-quiz-application/
    
    (Improvement quiz version 2)
-   - This is another quiz that i found that had a score count if the user gets the question correct. Made it work with my quiz and has no issues with it
-    https://replit.com/@stoneju/Quiz?v=1#main.py
-
+ - This is another quiz that i found that had a score count if the user gets the question correct. Made it work with my quiz and has no issues with it
+   https://replit.com/@stoneju/Quiz?v=1#main.py
+  
+  (Research work)
+ - These are resource of different methods of how to make a random number generator. I have 3 different codes in my random gen page 
+  https://www.geeksforgeeks.org/random-numbers-in-python/
+  This video is another method of randon number generator. I wanted to get mutiple methods so theirs choices
+  https://www.youtube.com/watch?v=JloQCKZZFc0
 ---------------------------------
 What could I add to improve my program:
 
@@ -64,3 +69,30 @@ Quiz version 2:
 As apart of what i could improve with my program the suggestion that i had made was to make a score that counts the questions that the user gets correct. 
 I have made a quiz version 2.0 that a score is used to count the amount of questions that the user answers and gets correct. This is used as an improvement
 on my quiz so then your score is kept tracked as you answer throughout the quiz.
+
+---------------------------------
+Random number generator is part of my research work
+
+Reflective prompts questions:
+
+- What is python?
+Python is a computer programming language. Python is used to be able to create variety of different types of programs and it's also used to automate tasks, build websites etc.
+
+- Have you developed a habit of exploring?
+I have, i use google to help me learn and understand things better. I use it to research python coding on how to create things as I don't remember everything and what
+some of the words means. researching things helps me understands in ways of i don't understand like errors that happen when i'm creating in python and explore
+different websites to understand the issue and to try resolve it.
+
+- Which parts of the work did you find tedious?
+Readme file. The most tedious part of the work i would say is writing. for example in my read me file i have written quite abit and i get bored of it but at the same
+time i don't mind writing 
+
+- What is a varaiable 
+A variable is a datatype where you can set/assign vaule to a variable. It stores vaules of different types
+
+- What are you looking forward to learning about programming
+mainly extended my knowledge/ability about python. Python has been the main language i have used since highschool. It was never taught in an easy way and i want to 
+learn it in a different way for me to understand things better.
+
+- What programming languages are you interested in learning? why?
+Python because its the only programming lanugage i've used but it's a language that i'm relearning because i haven't done it for years but i know some what of the basics off by heart so i got some type of understanding of it all
