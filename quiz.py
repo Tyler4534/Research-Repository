@@ -79,21 +79,3 @@ else:
   print(f"You're Incorrect! It is the amazon river, not {answer_7!r}")
 # Once the user has finished answering all the questions it tells the user that they have completed the quiz. 
 print("\n You have completed the quiz, Good bye! ")
-
- # https://stackoverflow.com/questions/32041840/python-error-typeerror-input-expected-at-most-1-arguments-got-3
-
-  #https://pythonguides.com/python-ask-for-user-input/
-
-  # https://realpython.com/python-quiz-application/
-
-  
-
-
-
-  
-
-  
-
-
-
-
